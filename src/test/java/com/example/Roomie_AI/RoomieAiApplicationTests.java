@@ -1,0 +1,13 @@
+package com.example.Roomie_AI;
+
+import org.junit.jupiter.api.Test;
+import org.springframework.boot.test.context.SpringBootTest;
+
+@SpringBootTest
+class RoomieAiApplicationTests {
+
+	@Test
+	void contextLoads() {
+	}
+
+}
